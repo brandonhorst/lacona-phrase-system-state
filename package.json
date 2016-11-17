@@ -6,7 +6,7 @@
     "url": "https://github.com/laconalabs/lacona-phrases/issues"
   },
   "dependencies": {
-    "elliptical-datetime": "^1.1.0",
+    "elliptical-datetime": "^1.2.0",
     "elliptical-email": "^1.1.0",
     "elliptical-number": "^1.2.0",
     "elliptical-phone": "^1.1.0",
